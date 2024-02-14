@@ -1,5 +1,5 @@
 # Sales-Analysis
-## Project Discription
+## Project Description
 The Sales Analysis Project aims to provide a detailed examination of Ehizua Enterprise sales data to derive insights that can inform strategic decision-making, optimize sales performance, and enhance revenue generation. By analyzing various facets of sales data, including trends, patterns, and customer behavior, this project will offer actionable recommendations to improve sales effectiveness and efficiency.
 
 ### Objectives:
